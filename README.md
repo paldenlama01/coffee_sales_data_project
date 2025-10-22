@@ -20,12 +20,5 @@ The project uses Excel functions and dashboards to show sales trends, top custom
 - INDEX and VLOOKUP  
 - PivotTables and PivotCharts  
 - Slicers and Timeline  
-
-## How to Use
-
-1. Open `coffee_orders_project.xlsx`  
-2. Go to the **Dashboard** sheet  
-3. Use filters to explore sales data  
-4. Refresh data after adding new records  
  
-"""
+
